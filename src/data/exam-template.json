@@ -1,0 +1,32 @@
+{
+  "durationMinutes": 90,
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": 1,
+      "subject": "Mata Pelajaran",
+      "question": "Tulis pertanyaan soal di sini ...",
+      "choices": {
+        "A": "Teks pilihan A",
+        "B": "Teks pilihan B",
+        "C": "Teks pilihan C",
+        "D": "Teks pilihan D",
+        "E": "Teks pilihan E"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 2,
+      "subject": "Mata Pelajaran",
+      "question": "Tulis pertanyaan soal berikutnya ...",
+      "choices": {
+        "A": "Teks pilihan A",
+        "B": "Teks pilihan B",
+        "C": "Teks pilihan C",
+        "D": "Teks pilihan D",
+        "E": "Teks pilihan E"
+      },
+      "answer": "B"
+    }
+  ]
+}

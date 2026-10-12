@@ -1,0 +1,228 @@
+{
+  "durationMinutes": 90,
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": 1,
+      "subject": "Matematika",
+      "question": "Diberikan lima buah bilangan sebagai berikut:<br><br><b>1,25; -2; 60%; 7/4; 1 1/2</b><br><br>Urutan bilangan di atas dari yang <b>terkecil ke yang terbesar</b> adalah ...",
+      "choices": { "A": "-2; 60%; 1,25; 1 1/2; 7/4", "B": "-2; 1,25; 60%; 1 1/2; 7/4", "C": "60%; -2; 1,25; 1 1/2; 7/4", "D": "-2; 60%; 1,25; 7/4; 1 1/2", "E": "-2; 60%; 1 1/2; 1,25; 7/4" },
+      "answer": "A"
+    },
+    {
+      "id": 2,
+      "subject": "Matematika",
+      "question": "Andi membeli 1 potong kemeja seharga Rp150.000,00 dan 2 buah celana panjang yang harga mula-mula per buahnya Rp150.000,00. Toko memberikan diskon sebesar 20% untuk setiap barang. Jika Andi membayar dengan 4 lembar uang seratus ribuan, berapakah sisa uang kembalian yang diterima Andi?",
+      "choices": { "A": "Rp20.000,00", "B": "Rp40.000,00", "C": "Rp60.000,00", "D": "Rp340.000,00", "E": "Rp360.000,00" },
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "subject": "Matematika",
+      "question": "Ditentukan operasi khusus untuk bilangan real dengan aturan sebagai berikut:<br>• <b>a # b = 2a + b</b><br>• <b>a Δ b = (a × b) - 50%</b><br><br>Hasil dari <b>(1,5 # 1/2) Δ (-2)</b> adalah ...",
+      "choices": { "A": "-7,5", "B": "-6,5", "C": "-3,5", "D": "6,5", "E": "7,5" },
+      "answer": "A"
+    },
+    {
+      "id": 4,
+      "subject": "Matematika",
+      "question": "Ibu membeli 4 jenis bahan makanan dengan rincian harga berikut:<br>• 1 kg beras: Rp14.800,00<br>• 1 liter minyak goreng: Rp18.200,00<br>• 1 kg gula pasir: Rp16.700,00<br>• 1 bungkus garam: Rp4.100,00<br><br>Ibu memperkirakan total belanjaannya dengan <b>membulatkan setiap harga barang ke ribuan terdekat</b>. Jika Ibu membayar dengan 1 lembar uang Rp100.000,00, perkiraan sisa uang kembalian yang diterima Ibu adalah ...",
+      "choices": { "A": "Rp46.000,00", "B": "Rp47.000,00", "C": "Rp53.000,00", "D": "Rp54.000,00", "E": "Rp56.000,00" },
+      "answer": "A"
+    },
+    {
+      "id": 5,
+      "subject": "Matematika",
+      "question": "Faktorisasi prima dari bilangan <b>84</b> adalah ...",
+      "choices": { "A": "2 × 3 × 7", "B": "2² × 3 × 7", "C": "2 × 3² × 7", "D": "2² × 21", "E": "4 × 3 × 7" },
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "subject": "Matematika",
+      "question": "Pak Budi membuat denah rencana pembangunan taman berbentuk persegi panjang. Pada denah, panjang taman adalah <b>8 cm</b> dan lebarnya <b>5 cm</b>. Jika skala denah tersebut adalah <b>1 : 150</b>, berapakah luas sebenarnya dari taman tersebut?",
+      "choices": { "A": "40 m²", "B": "60 m²", "C": "90 m²", "D": "120 m²", "E": "180 m²" },
+      "answer": "E"
+    },
+    {
+      "id": 7,
+      "subject": "Matematika",
+      "question": "Suatu pembangunan pos ronda direncanakan selesai dalam waktu <b>18 hari</b> oleh <b>4 orang</b> pekerja. Setelah berjalan 6 hari, pekerjaan terhenti selama 4 hari karena cuaca buruk. Agar pekerjaan selesai tepat waktu sesuai jadwal semula, berapa <b>tambahan pekerja</b> yang dibutuhkan?",
+      "choices": { "A": "2 orang", "B": "4 orang", "C": "6 orang", "D": "8 orang", "E": "9 orang" },
+      "answer": "A"
+    },
+    {
+      "id": 8,
+      "subject": "Matematika",
+      "question": "Jika x = k adalah penyelesaian dari persamaan linear <b>3x - 7 = 5x + 9</b>, maka nilai dari <b>2k + 3</b> adalah ...",
+      "choices": { "A": "−13", "B": "-8", "C": "−5", "D": "5", "E": "11" },
+      "answer": "A"
+    },
+    {
+      "id": 9,
+      "subject": "Matematika",
+      "question": "Himpunan penyelesaian dari pertidaksamaan linear <b>5x - 3 ≤ 2x + 9</b> untuk <b>x ∈ {bilangan cacah}</b> adalah ...",
+      "choices": { "A": "{1, 2, 3, 4}", "B": "{0, 1, 2, 3, 4}", "C": "{0, 1, 2, 3, 4, 5}", "D": "{1, 2, 3, 4, 5}", "E": "{4, 5, 6, 7, ...}" },
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "subject": "Matematika",
+      "question": "Diketahui sistem persamaan linear dua variabel:<br><b>2x + 3y = 13</b><br><b>3x - y = 3</b><br><br>Jika penyelesaiannya adalah x dan y, maka nilai dari <b>5x - 2y</b> adalah ...",
+      "choices": {
+        "A": "13",
+        "B": "11",
+        "C": "9",
+        "D": "7",
+        "E": "4"
+      },
+      "answer": "E"
+    },
+    {
+      "id": 11,
+      "subject": "Matematika",
+      "question": "Di sebuah tempat parkir, tarif untuk <b>3 unit mobil dan 5 unit sepeda motor</b> adalah <b>Rp30.000,00</b>. Sedangkan tarif untuk <b>4 unit mobil dan 2 unit sepeda motor</b> adalah <b>Rp26.000,00</b>. Berapakah tarif parkir untuk <b>1 unit mobil</b>?",
+      "choices": { "A": "Rp3.000,00", "B": "Rp4.000,00", "C": "Rp5.000,00", "D": "Rp6.000,00", "E": "Rp7.000,00" },
+      "answer": "C"
+    },
+    {
+      "id": 12,
+      "subject": "Matematika",
+      "question": "Perhatikan tiga bentuk operasi aljabar berikut:<br>(1) <b>3(2x + 4) - 5x</b><br>(2) <b>2x + 12 - x</b><br>(3) <b>3(2x) + 3(4) - 5x</b><br><br>Pasangan bentuk aljabar yang bernilai ekuivalen secara langsung karena penerapan <b>sifat distributif</b> adalah ...",
+      "choices": { "A": "(1) dan (2) saja", "B": "(1) dan (3) saja", "C": "(2) dan (3) saja", "D": "(1), (2), dan (3)", "E": "Tidak ada yang sama" },
+      "answer": "B"
+    },
+    {
+      "id": 13,
+      "subject": "Matematika",
+      "question": "Suatu relasi dari himpunan A ke himpunan B dinyatakan dalam himpunan pasangan berurutan:<br><br><b>R = {(1, 2), (2, 4), (3, 6), (4, 6)}</b><br><br>Domain (D_R) dan Range (R_R) dari relasi tersebut secara berturut-turut adalah ...",
+      "choices": { "A": "Domain = {1, 2, 3, 4} dan Range = {2, 4, 6}", "B": "Domain = {2, 4, 6} dan Range = {1, 2, 3, 4}", "C": "Domain = {1, 2, 3, 4} dan Range = {2, 4, 6, 6}", "D": "Domain = {1, 2, 3, 4, 6} dan Range = {2, 4, 6}", "E": "Domain = {1, 2, 3} dan Range = {2, 4, 6}" },
+      "answer": "A"
+    },
+    {
+      "id": 14,
+      "subject": "Matematika",
+      "question": "Diketahui tiga suku pertama dari suatu barisan bilangan adalah:<br><br><b>7, 11, 15, ...</b><br><br>Jika suku ke-n dari barisan tersebut bernilai <b>39</b>, maka nilai <b>n</b> adalah ...",
+      "choices": { "A": "7", "B": "8", "C": "9", "D": "10", "E": "11" },
+      "answer": "C"
+    },
+    {
+      "id": 15,
+      "subject": "Matematika",
+      "question": "Seorang pekerja toko menyusun kaleng susu di rak display. Tiga tumpukan pertama membentuk pola berikut:<br>• <b>Tumpukan ke-1:</b> 5 kaleng<br>• <b>Tumpukan ke-2:</b> 8 kaleng<br>• <b>Tumpukan ke-3:</b> 11 kaleng<br><br>Jika penambahan kaleng pada setiap tumpukan selanjutnya konstan, berapakah jumlah kaleng khusus pada <b>tumpukan ke-8</b>?",
+      "choices": {
+        "A": "26 kaleng",
+        "B": "29 kaleng",
+        "C": "32 kaleng",
+        "D": "35 kaleng",
+        "E": "38 kaleng"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 16,
+      "subject": "Matematika",
+      "question": "Dua garis sejajar k dan l dipotong oleh segitiga ABC, di mana titik A berada di garis k dan titik B di garis l.<br><br>Jika sudut luar yang berpelurus dengan ∠BAC besarnya <b>130°</b> dan besar ∠ABC = <b>65°</b>, berapakah besar sudut dalam <b>∠ACB</b>?",
+      "choices": { "A": "55°", "B": "65°", "C": "75°", "D": "115°", "E": "125°" },
+      "answer": "B"
+    },
+    {
+      "id": 17,
+      "subject": "Matematika",
+      "question": "Pak Hadi memiliki sebidang tanah berbentuk segitiga siku-siku. Dua sisi yang saling tegak lurus memiliki panjang <b>12 meter</b> dan <b>16 meter</b>. Pak Hadi akan memagari sekeliling tanah tersebut dengan kawat seharga <b>Rp25.000,00 per meter</b>. Berapakah total biaya yang dibutuhkan?",
+      "choices": { "A": "Rp700.000,00", "B": "Rp1.000.000,00", "C": "Rp1.200.000,00", "D": "Rp1.500.000,00", "E": "Rp2.000.000,00" },
+      "answer": "C"
+    },
+    {
+      "id": 18,
+      "subject": "Matematika",
+      "question": "Perhatikan ukuran empat persegi panjang berikut:<br>• <b>(i)</b> 6 cm × 4 cm<br>• <b>(ii)</b> 9 cm × 6 cm<br>• <b>(iii)</b> 12 cm × 10 cm<br>• <b>(iv)</b> 15 cm × 8 cm<br><br>Pasangan persegi panjang yang <b>sebangun</b> adalah ...",
+      "choices": { "A": "(i) dan (ii)", "B": "(i) dan (iii)", "C": "(ii) dan (iii)", "D": "(ii) dan (iv)", "E": "(iii) dan (iv)" },
+      "answer": "A"
+    },
+    {
+      "id": 19,
+      "subject": "Matematika",
+      "question": "Sebuah foto berukuran tinggi <b>40 cm</b> dan lebar <b>30 cm</b> ditempelkan pada sebuah bingkai karton. Foto dan karton tersebut <b>sebangun</b>. Jika lebar karton adalah <b>45 cm</b>, berapakah tinggi dari karton tersebut?",
+      "choices": { "A": "50 cm", "B": "55 cm", "C": "60 cm", "D": "65 cm", "E": "75 cm" },
+      "answer": "C"
+    },
+    {
+      "id": 20,
+      "subject": "Matematika",
+      "question": "Suatu bangun ruang <b>prisma tegak segitiga</b> jika diiris sepanjang rusuk-rusuknya dan dibentangkan akan membentuk jaring-jaring. Komposisi bangun datar penyusun jaring-jaring prisma segitiga adalah ...",
+      "choices": { "A": "2 buah segitiga kongruen dan 3 buah persegi panjang", "B": "3 buah segitiga kongruen dan 2 buah persegi panjang", "C": "2 buah segitiga kongruen dan 4 buah persegi panjang", "D": "4 buah segitiga kongruen dan 1 buah persegi panjang", "E": "5 buah segitiga yang memiliki ukuran sama" },
+      "answer": "A"
+    },
+    {
+      "id": 21,
+      "subject": "Matematika",
+      "question": "Pada bidang Kartesius, garis g₁ melalui titik (2, 1) dan (4, 5) di Kuadran I. Garis g₂ merupakan hasil transformasi dari g₁ dan melalui titik (-2, -1) serta (-4, -5) di Kuadran III.<br><br>Jenis transformasi tunggal yang tepat untuk memetakan garis g₁ menjadi garis g₂ adalah ...",
+      "choices": { "A": "Refleksi terhadap sumbu-X", "B": "Refleksi terhadap sumbu-Y", "C": "Rotasi sebesar 90° searah jarum jam dengan pusat (0,0)", "D": "Rotasi sebesar 180° dengan pusat (0,0)", "E": "Dilatasi dengan pusat (0,0) dan faktor skala k = -2" },
+      "answer": "D"
+    },
+    {
+      "id": 22,
+      "subject": "Matematika",
+      "question": "Sebuah bangun datar gabungan terdiri dari persegi panjang berukuran <b>20 cm × 14 cm</b> dan setengah lingkaran yang menempel pada salah satu sisi lebarnya (14 cm). Berapakah <b>keliling</b> bangun datar gabungan tersebut? (π = 22/7)",
+      "choices": { "A": "68 cm", "B": "76 cm", "C": "82 cm", "D": "90 cm", "E": "98 cm" },
+      "answer": "B"
+    },
+    {
+      "id": 23,
+      "subject": "Matematika",
+      "question": "Pak Budi merancang taman berbentuk persegi panjang berukuran <b>10 m × 7 m</b>. Di dalam area taman tersebut dibuat kolam berbentuk setengah lingkaran dengan diameter <b>7 m</b>, sedangkan sisa areanya ditanami rumput hias. Berapakah luas area yang ditanami rumput hias? (π = 22/7)",
+      "choices": { "A": "38,5 m²", "B": "50,75 m²", "C": "70,0 m²", "D": "89,25 m²", "E": "108,5 m²" },
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "subject": "Matematika",
+      "question": "Sebuah hiasan meja berbentuk <b>limas segi empat beraturan T.ABCD</b> memiliki panjang rusuk alas <b>10 cm</b> dan panjang rusuk tegak <b>13 cm</b>. Berapakah volume maksimal cairan yang dapat ditampung oleh hiasan tersebut?",
+      "choices": { "A": "300√2 cm³", "B": "100√119 cm³", "C": "(100/3)√119 cm³", "D": "(100/3)√238 cm³", "E": "400 cm³" },
+      "answer": "C"
+    },
+    {
+      "id": 25,
+      "subject": "Matematika",
+      "question": "Perhatikan data koleksi buku perpustakaan berikut:<br>• <b>Novel:</b> 120 eksemplar<br>• <b>Komik:</b> 85 eksemplar<br>• <b>Sains:</b> 150 eksemplar<br>• <b>Biografi:</b> 45 eksemplar<br><br>Pertanyaan yang paling tepat digunakan untuk mengumpulkan data tersebut adalah ...",
+      "choices": { "A": "Berapa banyak buku yang kamu baca dalam satu bulan?", "B": "Apa kategori buku favorit yang paling sering kamu pinjam di perpustakaan?", "C": "Berapa jumlah eksemplar buku yang dimiliki sekolah berdasarkan kategori jenis bukunya?", "D": "Berapa jam waktu yang kamu habiskan untuk membaca buku di perpustakaan setiap minggu?", "E": "Berapa harga rata-rata buku pelajaran yang dijual di toko buku?" },
+      "answer": "C"
+    },
+    {
+      "id": 26,
+      "subject": "Matematika",
+      "question": "Berikut adalah data nilai ulangan harian matematika sekelompok siswa:<br><br><b>78, 85, 65, 90, 72, 88, 95, 80, 75</b><br><br>Berapakah <b>median</b> dari data nilai ulangan tersebut?",
+      "choices": { "A": "78", "B": "80", "C": "82", "D": "85", "E": "88" },
+      "answer": "B"
+    },
+    {
+      "id": 27,
+      "subject": "Matematika",
+      "question": "Tabel berikut menunjukkan data nilai ulangan harian matematika dari 10 siswa:<br><br>• <b>Nilai 70:</b> 4 siswa<br>• <b>Nilai 80:</b> 3 siswa<br>• <b>Nilai 90:</b> 3 siswa<br><br>Jika ada 2 orang siswa susulan yang memiliki nilai sama bergabung, nilai rata-rata seluruh siswa naik dari <b>79</b> menjadi <b>81</b>. Berapakah nilai dari masing-masing siswa susulan tersebut?",
+      "choices": { "A": "85", "B": "88", "C": "91", "D": "93", "E": "96" },
+      "answer": "C"
+    },
+    {
+      "id": 28,
+      "subject": "Matematika",
+      "question": "Data keterlambatan (menit) 7 penerbangan di suatu bandara:<br><b>12, 35, 20, 15, 45, 20, 32</b><br><br>Kemudian terdapat penambahan 2 data keterlambatan penerbangan baru yaitu <b>15 menit</b> dan <b>20 menit</b>.<br><br>Pernyataan analisis perubahan data yang paling tepat adalah ...",
+      "choices": { "A": "Nilai median dan modus keduanya bernilai tetap/tidak berubah", "B": "Nilai jangkauan (range) meningkat sebesar 5 menit", "C": "Nilai mean (rata-rata) mengalami peningkatan", "D": "Nilai modus mengalami perubahan dari 20 menjadi 15", "E": "Nilai median mengalami peningkatan sebesar 2 menit" },
+      "answer": "A"
+    },
+    {
+      "id": 29,
+      "subject": "Matematika",
+      "question": "Rani memiliki kotak pensil berisi <b>4 pulpen hitam, 3 pulpen biru, dan 5 pulpen merah</b>. Rani mengambil 3 pulpen satu per satu secara acak <b>tanpa pengembalian</b>.<br><br>Jika pada pengambilan pertama terambil pulpen hitam dan pada pengambilan kedua terambil pulpen merah, berapakah peluang terambilnya <b>pulpen biru</b> pada pengambilan ketiga?",
+      "choices": { "A": "3/12", "B": "3/11", "C": "3/10", "D": "4/10", "E": "5/10" },
+      "answer": "C"
+    },
+    {
+      "id": 30,
+      "subject": "Matematika",
+      "question": "Sebuah dadu dilemparkan sebanyak <b>150 kali</b>. Hasil kemunculan mata dadu dicatat sebagai berikut:<br><br>• <b>Mata 1:</b> 22 kali<br>• <b>Mata 2:</b> 25 kali<br>• <b>Mata 3:</b> 26 kali<br>• <b>Mata 4:</b> 23 kali<br>• <b>Mata 5:</b> 24 kali<br>• <b>Mata 6:</b> 30 kali<br><br>Berapakah <b>frekuensi relatif</b> kemunculan mata dadu <b>genap</b>?",
+      "choices": { "A": "0,20", "B": "0,35", "C": "0,50", "D": "0,52", "E": "0,65" },
+      "answer": "D"
+    }
+  ]
+}
